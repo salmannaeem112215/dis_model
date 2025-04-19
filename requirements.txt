@@ -1,0 +1,5 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+shutil==1.0.0  
+ultralytics==8.0.77  
+torch==2.1.0  
